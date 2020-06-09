@@ -4,7 +4,7 @@ This version has passed some sucesfull tests.
 
 The simplex_method function solves the problem
 ****************
-obj_fuc -> min
+((obj_fuc)^T @ x) -> min
 
 subject to
 A @ x = b
